@@ -7,10 +7,13 @@
 <h3> 🛠 &nbsp;Технический стэк</h3>
 
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![PosrtgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+![PosrtgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=white)
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5B8FA9?style=for-the-badge&logo=seaborn&logoColor=white)
